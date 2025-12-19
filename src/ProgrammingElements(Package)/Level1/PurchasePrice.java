@@ -5,6 +5,7 @@ class PurchasePrice {
         double unitPrice = input.nextDouble();
         int quantity = input.nextInt();
         double totalPrice = unitPrice * quantity;
+        
         System.out.println(
             "The total purchase price is INR " + totalPrice +
             " if the quantity " + quantity +

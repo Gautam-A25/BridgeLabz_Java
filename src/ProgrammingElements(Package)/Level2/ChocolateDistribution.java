@@ -11,10 +11,7 @@ public class ChocolateDistribution {
         int remainingChocolates = numberOfChocolates % numberOfChildren;
 
         System.out.println(
-                "The number of chocolates each child gets is " +
-                        chocolatesPerChild +
-                        " and the number of remaining chocolates are " +
-                        remainingChocolates
+                "The number of chocolates each child gets is " + chocolatesPerChild + " and the number of remaining chocolates are " + remainingChocolates
         );
 
         input.close();

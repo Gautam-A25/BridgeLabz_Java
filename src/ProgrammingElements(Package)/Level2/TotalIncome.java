@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class TotalIncome {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
         double salary = input.nextDouble();
         double bonus = input.nextDouble();
 
