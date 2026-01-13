@@ -1,4 +1,3 @@
-package CoreProgramming.ClassAndObject.level2;
 import java.util.Scanner;
 
 class CartItem {
