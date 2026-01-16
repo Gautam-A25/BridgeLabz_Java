@@ -1,4 +1,4 @@
-# BridgeLabz-Training-CG
+# BridgeLabz-Training
 
 This repository records my daily learning, hands-on practice, and overall progress during the BridgeLabz AMTPL Java Training Program.  
 It covers Java fundamentals, core programming concepts, structured practice problems, and Git-based version control workflows followed throughout the training.
@@ -144,3 +144,4 @@ Coverage included:
 - Improving code structure and reusability  
 
 All work was organized and pushed to GitHub using a **branch-based repository structure** for better version control and project organization.
+
