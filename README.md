@@ -144,4 +144,3 @@ Coverage included:
 - Improving code structure and reusability  
 
 All work was organized and pushed to GitHub using a **branch-based repository structure** for better version control and project organization.
-
