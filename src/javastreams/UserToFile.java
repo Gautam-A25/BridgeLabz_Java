@@ -1,4 +1,4 @@
-package javacollectionstreams.iostreams;
+package javastreams;
 import java.io.*;
 import java.util.Scanner;
 
