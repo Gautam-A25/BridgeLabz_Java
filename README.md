@@ -143,4 +143,199 @@ Coverage included:
 - Applying methods to real-world scenarios  
 - Improving code structure and reusability  
 
-All work was organized and pushed to GitHub using a **branch-based repository structure** for better version control and project organization.
+## 19th December 2025
+
+### What I have done:
+* Viva (Review 1 - Git basics, Programming , Dotnet Fundamentals)
+* Level 1 Problems Arrays
+* Restructured Github completely
+
+### What I will do next:
+* Arrays lab practice
+
+### Issues faced:
+* Tackling some tough questions in Viva mainly theorotical. Complete Restructuring of Github Repository.
+
+## 9th January 2025
+
+### What I have done:
+* Created Github Workflow
+* Completed Git Program Tasks
+
+### What I will do next:
+* Completion of Programming Elements lab practice
+
+### Issues faced:
+* Understanding and Learning Git
+
+## 10th January 2025
+
+### What I have done:
+* Level 1 Problems Programming Elements
+* Level 2 Problems Programming Elements
+  
+### What I will do next:
+* Completion of Programming Elements lab practice
+
+### Issues faced:
+* Understanding Git and Resolving mistakes in organization of file structure in git
+
+## 12th January 2025
+
+### What I have done:
+* Level 3 Problems Programming Elements
+* Level 1 Problems Control Flows
+
+### What I will do next:
+* Control Flows lab practice
+
+### Issues faced:
+* No major issues faced, few coding questions were challenging.
+
+## 13th January 2025
+
+### What I have done:
+* Level 2 Problems Control Flows
+* Level 3 Problems Control Flows
+
+### What I will do next:
+* Arrays lab practice
+### Issues faced:
+* Restructuring Branches and folder organization.
+
+## 14th January 2025
+
+### What I have done:
+* Level 1 Problems Arrays
+* Level 2 Problems Arrays
+* Level 3 Problems Arrays
+* Level 1 Problems Methods
+
+### What I will do next:
+* Methods lab practice
+
+### Issues faced:
+* Revision of concepts and lab practice within the given time.
+
+## 15th January 2025
+
+### What I have done:
+* Level 2 Problems Methods
+* Level 3 Problems Methods
+* Level 1 Problems Strings
+* Level 2 Problems Strings
+### What I will do next:
+* Strings and OOPS
+
+### Issues faced:
+* None
+
+## 16th January 2025
+
+### What I have done:
+* Level 3 Problems Strings
+* JavaClassAndObject
+* ConstructorsAndAccessModifiers
+* KeyAndInstances
+### What I will do next:
+* Remaining OOPS Concepts
+
+### Issues faced:
+* None
+
+## 17th January 2025
+
+### What I have done:
+* Inheritance
+* OOPDesignPrinciples
+* OOPCoreConcepts
+### What I will do next:
+* Data Strucutres and Algorithms
+
+### Issues faced:
+* None
+
+## 20th January 2025
+
+### What I have done:
+* Viva Revision
+
+### What I will do next:
+* First week review
+
+### Issues faced:
+* None
+
+## 21st January 2025
+
+### What I have done:
+* First Week Review
+* Revision for OOPS
+
+### What I will do next:
+* Git restructure
+
+### Issues faced:
+* None
+
+## 22nd January 2025
+
+### What I have done:
+* LinkedList
+* Stack, Queue, Hash Maps
+* Sorting Algorithms
+
+### What I will do next:
+* Remaining topics from data structures
+
+### Issues faced:
+* None
+
+## 23rd January 2025
+
+### What I have done:
+* Linear and Binary Search
+* Runtime Analysis
+
+### What I will do next:
+* Git restructure
+
+### Issues faced:
+* None
+
+## 24th January 2025
+
+### What I have done:
+* OOPS Banner App Project
+* OOPS Review preparation
+
+### What I will do next:
+* OOPS Review
+
+### Issues faced:
+* None
+
+## 27th January 2025
+
+### What I have done:
+* OOPS Review
+* Java Generics
+
+### What I will do next:
+* Git restructure
+
+### Issues faced:
+* None
+
+## 28th January 2025
+
+### What I have done:
+* Java Collections
+* DSA Revision
+
+### What I will do next:
+* DSA Review
+
+### Issues faced:
+* None
+
