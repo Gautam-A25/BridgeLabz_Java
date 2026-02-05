@@ -31,6 +31,7 @@ public class ImageByteArray {
 
         fis.close();
         fos.close();
+        sc.close();
         System.out.println("Image copied successfully!");
     }
 }

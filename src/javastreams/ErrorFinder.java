@@ -21,5 +21,6 @@ public class ErrorFinder {
             }
         }
         br.close();
+        sc.close();
     }
 }

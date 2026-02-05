@@ -23,6 +23,7 @@ public class UpperToLower {
 
         br.close();
         bw.close();
+        sc.close();
         System.out.println("Converted successfully!");
     }
 }

@@ -29,6 +29,7 @@ public class StudentData {
         System.out.println("Name: " + dis.readUTF());
         System.out.println("GPA: " + dis.readDouble());
         dis.close();
+        sc.close();
     }
 }
 

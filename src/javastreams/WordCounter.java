@@ -38,5 +38,6 @@ public class WordCounter {
         for (int i = 0; i < 5 && i < list.size(); i++) {
             System.out.println(list.get(i).getKey() + " : " + list.get(i).getValue());
         }
+        sc.close();
     }
 }

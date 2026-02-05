@@ -1,6 +1,5 @@
 package javastreams;
 import java.io.*;
-import java.util.Scanner;
 
 /*
  Program: Save user details to file

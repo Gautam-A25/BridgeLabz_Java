@@ -27,6 +27,7 @@ public class PipedDemo {
                 }
             } catch (IOException e) {}
         }).start();
+        pis.close();
     }
 }
 

@@ -66,5 +66,6 @@ public class EmployeeSerialization {
         } catch (Exception e) {
             System.out.println("Error reading file.");
         }
+        sc.close();
     }
 }
