@@ -1,4 +1,4 @@
-package javacollectionstreams.exceptionhandling.level2;
+package exceptions.level2;
 import java.io.*;
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package javacollectionstreams.exceptionhandling.level1;
+package exceptions.level1;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 

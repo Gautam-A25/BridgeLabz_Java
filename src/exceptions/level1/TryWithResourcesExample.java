@@ -1,4 +1,4 @@
-package javacollectionstreams.exceptionhandling.level1;
+package exceptions.level1;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
