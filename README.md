@@ -1,341 +1,74 @@
-# BridgeLabz-Training
-
-This repository records my daily learning, hands-on practice, and overall progress during the BridgeLabz Java Training Program.  
-It covers Java fundamentals, core programming concepts, structured practice problems, and Git-based version control workflows followed throughout the training.
-
----
-
-## 8th December 2025
-
-The focus of this day was setting up the complete development environment required for Java programming.
-
-Tools installed, verified, and configured:
-- Visual Studio Code  
-- Visual Studio  
-- IntelliJ IDEA  
-- Eclipse IDE  
-- Git  
-
-Existing installations were also checked to ensure proper setup and configuration.
-
----
-
-## 9th December 2025
-
-We were introduced to the fundamental concepts of Java programming.
-
-Topics covered:
-- Overview of Java  
-- Features of Java  
-- Java Development Kit (JDK)  
-- Java Virtual Machine (JVM)  
-- Java Runtime Environment (JRE)  
-- Java program execution flow  
-- Data types  
-- Variables and basic syntax  
-
----
-
-## 10th December 2025
-
-Basic Java concepts were practiced through simple programs.
-
-Activities included:
-- Writing and running basic Java programs  
-- Understanding Java program structure  
-- Practicing Git commands:
-  - `git init`
-  - `git add`
-  - `git commit`
-  - `git push`
-- Uploading Java programs to GitHub repositories  
-
----
-
-## 11th December 2025
-
-Practice problems assigned during training were completed.
-
-Topics included:
-- Introduction to Strings  
-- Basic String operations  
-- Introduction to Arrays  
-- Array fundamentals  
-
-Programs using terminal-based input and output were also practiced.
-
----
-
-## 12th December 2025
-
-This day was fully dedicated to understanding arrays.
-
-Topics covered:
-- One-dimensional arrays  
-- Array declaration, initialization, and traversal  
-- Basic array problem solving  
-- Memory allocation in arrays  
-
----
-
-## 13th December 2025
-
-We focused on Java methods and their usage.
-
-Topics included:
-- Defining methods  
-- Calling methods  
-- Passing parameters  
-- Return types  
-- Writing basic method-based programs  
-
----
-
-## 15th December 2025
-
-**Programming Elements** problems were practiced extensively.
-
-Coverage included:
-- Level 1 and Level 2 problems  
-- User-defined input  
-- Command-line input  
-- Basic computational programs  
-- Real-world problem solving using Java  
-
----
-
-## 16th December 2025
-
-This day focused on **Control Flow** concepts.
-
-Topics and practice included:
-- Conditional statements  
-- Loops:
-  - `for`
-  - `while`
-  - `do-while`
-- `switch-case` statements  
-- Control Flow practice problems:
-  - Level 1  
-  - Level 2  
-  - Level 3  
-
----
-
-## 17th December 2025
-
-We practiced **Java Arrays** in depth.
-
-Topics covered:
-- Level 1 and Level 2 array problems  
-- One-dimensional arrays  
-- Two-dimensional arrays  
-- Logical problem solving using arrays  
-
----
-
-## 18th December 2025
-
-We continued working on **Java Methods** with deeper practice.
-
-Coverage included:
-- Level 1 and Level 2 method-based problems  
-- Applying methods to real-world scenarios  
-- Improving code structure and reusability  
-
-## 19th December 2025
-
-### What I have done:
-* Viva (Review 1 - Git basics, Programming , Dotnet Fundamentals)
-* Level 1 Problems Arrays
-* Restructured Github completely
-
-### What I will do next:
-* Arrays lab practice
-
-### Issues faced:
-* Tackling some tough questions in Viva mainly theorotical. Complete Restructuring of Github Repository.
-
-## 9th January 2025
-
-### What I have done:
-* Created Github Workflow
-* Completed Git Program Tasks
-
-### What I will do next:
-* Completion of Programming Elements lab practice
-
-### Issues faced:
-* Understanding and Learning Git
-
-## 10th January 2025
-
-### What I have done:
-* Level 1 Problems Programming Elements
-* Level 2 Problems Programming Elements
-  
-### What I will do next:
-* Completion of Programming Elements lab practice
-
-### Issues faced:
-* Understanding Git and Resolving mistakes in organization of file structure in git
-
-## 12th January 2025
-
-### What I have done:
-* Level 3 Problems Programming Elements
-* Level 1 Problems Control Flows
-
-### What I will do next:
-* Control Flows lab practice
-
-### Issues faced:
-* No major issues faced, few coding questions were challenging.
-
-## 13th January 2025
-
-### What I have done:
-* Level 2 Problems Control Flows
-* Level 3 Problems Control Flows
-
-### What I will do next:
-* Arrays lab practice
-### Issues faced:
-* Restructuring Branches and folder organization.
-
-## 14th January 2025
-
-### What I have done:
-* Level 1 Problems Arrays
-* Level 2 Problems Arrays
-* Level 3 Problems Arrays
-* Level 1 Problems Methods
-
-### What I will do next:
-* Methods lab practice
-
-### Issues faced:
-* Revision of concepts and lab practice within the given time.
-
-## 15th January 2025
-
-### What I have done:
-* Level 2 Problems Methods
-* Level 3 Problems Methods
-* Level 1 Problems Strings
-* Level 2 Problems Strings
-### What I will do next:
-* Strings and OOPS
-
-### Issues faced:
-* None
-
-## 16th January 2025
-
-### What I have done:
-* Level 3 Problems Strings
-* JavaClassAndObject
-* ConstructorsAndAccessModifiers
-* KeyAndInstances
-### What I will do next:
-* Remaining OOPS Concepts
-
-### Issues faced:
-* None
-
-## 17th January 2025
-
-### What I have done:
-* Inheritance
-* OOPDesignPrinciples
-* OOPCoreConcepts
-### What I will do next:
-* Data Strucutres and Algorithms
-
-### Issues faced:
-* None
-
-## 20th January 2025
-
-### What I have done:
-* Viva Revision
-
-### What I will do next:
-* First week review
-
-### Issues faced:
-* None
-
-## 21st January 2025
-
-### What I have done:
-* First Week Review
-* Revision for OOPS
-
-### What I will do next:
-* Git restructure
-
-### Issues faced:
-* None
-
-## 22nd January 2025
-
-### What I have done:
-* LinkedList
-* Stack, Queue, Hash Maps
-* Sorting Algorithms
-
-### What I will do next:
-* Remaining topics from data structures
-
-### Issues faced:
-* None
-
-## 23rd January 2025
-
-### What I have done:
-* Linear and Binary Search
-* Runtime Analysis
-
-### What I will do next:
-* Git restructure
-
-### Issues faced:
-* None
-
-## 24th January 2025
-
-### What I have done:
-* OOPS Banner App Project
-* OOPS Review preparation
-
-### What I will do next:
-* OOPS Review
-
-### Issues faced:
-* None
-
-## 27th January 2025
-
-### What I have done:
-* OOPS Review
-* Java Generics
-
-### What I will do next:
-* Git restructure
-
-### Issues faced:
-* None
-
-## 28th January 2025
-
-### What I have done:
-* Java Collections
-* DSA Revision
-
-### What I will do next:
-* DSA Review
-
-### Issues faced:
-* None
-
+# 📘 Daily Project Logs – BridgeLabz Training
+
+- **08-Dec-2025 (Mon):** Installed IntelliJ IDEA and Eclipse IDE
+- **09-Dec-2025 (Tue):** Learned Java basics
+- **10-Dec-2025 (Wed):** Solved basic Java programs
+- **11-Dec-2025 (Thu):** Introduced to Git commands
+- **12-Dec-2025 (Fri):** Installed Git Bash and .NET SDK; completed GitHub setup
+- **13-Dec-2025 (Sat):** Learned C# fundamentals
+
+- **15-Dec-2025 (Mon):** Completed Programming Elements (Level 1 & 2)
+- **16-Dec-2025 (Tue):** Learned Control Flow; completed Level 1 & 2
+- **17-Dec-2025 (Wed):** Performed Git tasks; completed Control Flow Level 3
+- **18-Dec-2025 (Thu):** Practiced Git merge and rebase; completed Arrays Level 1
+- **19-Dec-2025 (Fri):** Revised core C# and .NET concepts
+- **20-Dec-2025 (Sat):** Practiced Git commands; completed Arrays Level 2 and Methods Level 1 & 2
+
+- **22-Dec-2025 (Mon):** Completed advanced Git practice and reviewed previously implemented programs
+- **23-Dec-2025 (Tue):** Revised and strengthened understanding of completed modules
+
+- **08-Jan-2026 (Thu):** Revisited Java fundamentals including variables, data types, operators, and I/O concepts
+- **09-Jan-2026 (Fri):** Continued Java training with an introduction to backend concepts
+- **10-Jan-2026 (Sat):** Practiced Java programs and initialized a dedicated Java GitHub repository
+
+- **12-Jan-2026 (Mon):** Completed Programming Elements Level 1 & 2
+- **13-Jan-2026 (Tue):** Studied Control Flow concepts in depth
+- **14-Jan-2026 (Wed):** Completed Control Flow Levels 1–3 and committed implementations to `feature/CoreProgramming`
+- **15-Jan-2026 (Thu):** Practiced Arrays Level 1 & 2 and completed Strings Level 1 & 2
+- **16-Jan-2026 (Fri):** Completed Strings Level 3 and Methods; pushed finalized programs to GitHub and resolved issues
+
+- **17-Jan-2026 (Sat):** Enhanced code readability with comments, completed keyword-based problems, reinforced Class & Object concepts, and refined package structure
+- **20-Jan-2026 (Tue):** Completed inheritance and encapsulation concepts as part of the Object-Oriented Programming module
+- **21-Jan-2026 (Wed):** Completed object modelling for the OOPS feature and standardized package naming conventions
+- **22-Jan-2026 (Thu):** Solved and consolidated problems on Stack, Queue, HashMap, Sorting, and Linear & Binary Search algorithms and gave review
+- **23-Jan-2026(Fri):** Started Doing the OOPS Banner App Project
+- **24-Jan-2026(Sat):** Gave OOPS review and completed OOPS Banner APP till UC6 Feature
+- **27-Jan-2026(Tue):** Done with OOPS Banner APP and Started doing Java Collections and Streams
+- **28-Jan-2026(Wed):** Completed Java Generics from Collections and Streams, revising DSA for review
+- **29-Jan-2026(Thu):** Completed Collections and Started with Factory Robot hazard Analyzer
+- **30-Jan-2026(Fri):** Completed the Factory Robot Hazard Analyzer and Given DSA review
+- **31-Jan-2026(Sat):** Started the Java Stream Questions and revised DSA Questions for written test
+- **1-Feb-2026(Mon):** Completed Java Streams Questions, given DSA written test and started Java Exceptions Questions.
+- **01-Feb-2026(Sun):** Revised Java Streams and practiced Stream API problems
+- **02-Feb-2026(Mon):** Completed Java IO Streams concepts and started working on Java Exceptions
+- **03-Feb-2026(Tue):** Practiced Exception Handling programs and completed Exception assignments
+- **04-Feb-2026(Wed):** Started learning Java Regex and pattern matching basics
+- **05-Feb-2026(Thu):** Completed Regex exercises and started learning JUnit testing
+- **06-Feb-2026(Fri):** Practiced JUnit test cases for previous Java programs and debugging
+- **07-Feb-2026(Sat):** Attended first Power Skills session and revised Java Collections and Streams
+- **09-Feb-2026(Mon):** Gave DSA and Java review and practiced Stream API programs
+- **10-Feb-2026(Tue):** Continued practicing Stream API operations like filter, map and reduce
+- **11-Feb-2026(Wed):** Started IO Programming module and learned CSV Data Handling
+- **12-Feb-2026(Thu):** Implemented CSV file reading and writing programs
+- **13-Feb-2026(Fri):** Practiced CSV data parsing and file processing programs
+- **14-Feb-2026(Sat):** Attended Power Skills session and revised IO programming concepts
+- **16-Feb-2026(Mon):** Gave weekly review and started learning Java Annotations
+- **17-Feb-2026(Tue):** Practiced Reflection API and annotation examples
+- **18-Feb-2026(Wed):** Started studying Design Patterns and their real-world usage
+- **19-Feb-2026(Thu):** Implemented Singleton and Factory Design Pattern examples
+- **20-Feb-2026(Fri):** Practiced Design Pattern exercises and reviewed concepts
+- **21-Feb-2026(Sat):** Attended Power Skills session and revised Design Pattern concepts
+- **23-Feb-2026(Mon):** Started learning Java Multithreading and thread lifecycle
+- **24-Feb-2026(Tue):** Gave review and practiced multithreading synchronization examples
+- **25-Feb-2026(Wed):** Started MySQL Database module and installed MySQL
+- **26-Feb-2026(Thu):** Practiced database creation, tables and SQL queries
+- **27-Feb-2026(Fri):** Started JDBC Introduction and implemented database connectivity
+- **28-Feb-2026(Sat):** Attended Power Skills session and revised JDBC concepts
+- **02-Mar-2026(Mon):** Implemented JDBC Prepared Statements and CRUD operations
+- **03-Mar-2026(Tue):** Practiced JDBC Transactions and error handling programs
+- **04-Mar-2026(Wed):** Started Java Backend concepts and learned Tomcat Server
+- **05-Mar-2026(Thu):** Implemented basic Servlet program and deployed on Tomcat
+- **06-Mar-2026(Fri):** Started learning Spring Boot basics and project setup
+- **07-Mar-2026(Sat):** Attended Power Skills session and revised Spring Boot fundamentals
+- **09-Mar-2026(Mon):** Implemented simple Spring Boot REST API and tested endpoints and gave review on the topic JDBC,SQL and ER
+- **10-Mar-2026(Tue):** Revised Java Backend concepts including Servlet, JDBC and Spring Boot
